@@ -1,0 +1,9 @@
+# ninja log v5
+1	532	586020504	Json_Parser/CMakeFiles/Json_Parser.dir/Json_Parser.cpp.obj	9632fd7832a3fb65
+532	1362	586020505	Json_Parser/Json_Parser.exe	9c8a9e03e175c407
+1	606	586020533	Json_Parser/CMakeFiles/Json_Parser.dir/Json_Parser.cpp.obj	9632fd7832a3fb65
+606	1201	586020533	Json_Parser/Json_Parser.exe	9c8a9e03e175c407
+0	613	586020643	Json_Parser/CMakeFiles/Json_Parser.dir/Json_Parser.cpp.obj	9632fd7832a3fb65
+613	1196	586020643	Json_Parser/Json_Parser.exe	9c8a9e03e175c407
+0	645	586024101	Json_Parser/CMakeFiles/Json_Parser.dir/Json_Parser.cpp.obj	9632fd7832a3fb65
+645	1259	586024101	Json_Parser/Json_Parser.exe	9c8a9e03e175c407

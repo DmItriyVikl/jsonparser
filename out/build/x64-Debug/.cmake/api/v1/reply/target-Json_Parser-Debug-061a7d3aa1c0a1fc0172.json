@@ -1,0 +1,133 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "Json_Parser/Json_Parser.exe"
+		},
+		{
+			"path" : "Json_Parser/Json_Parser.pdb"
+		}
+	],
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"_add_executable",
+			"add_executable",
+			"target_link_libraries"
+		],
+		"files" : 
+		[
+			"C:/Users/ADMIN/Downloads/vcpkg-master/scripts/buildsystems/vcpkg.cmake",
+			"Json_Parser/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 169,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 12,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /ZI /Ob0 /Od /RTC1 /JMC   -std:c++17"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"isSystem" : true,
+					"path" : "C:/Users/ADMIN/Downloads/vcpkg-master/installed/x64-windows/include"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"id" : "Json_Parser::@9d22778d8b32bc91fe19",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /ZI /Ob0 /Od /RTC1 /JMC",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "/machine:x64 /debug /INCREMENTAL /subsystem:console",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "C:\\Users\\ADMIN\\Downloads\\vcpkg-master\\installed\\x64-windows\\debug\\lib\\jsoncpp.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "Json_Parser",
+	"nameOnDisk" : "Json_Parser.exe",
+	"paths" : 
+	{
+		"build" : "Json_Parser",
+		"source" : "Json_Parser"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "Json_Parser/Json_Parser.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 2,
+			"path" : "Json_Parser/Json_Parser.h",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "EXECUTABLE"
+}

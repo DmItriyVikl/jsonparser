@@ -1,0 +1,10 @@
+{
+  "key1": "static string",
+  "key2": "input",
+  "array": [
+    "abracatabra",
+    "blablabla",
+    "yahooooooo!"
+  ],
+  "search_type": "QUEUE"
+}

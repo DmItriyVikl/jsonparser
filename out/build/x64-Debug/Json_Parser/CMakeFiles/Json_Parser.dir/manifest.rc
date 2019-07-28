@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/ADMIN/source/repos/Json_Parser/out/build/x64-Debug/Json_Parser/CMakeFiles/Json_Parser.dir/embed.manifest"

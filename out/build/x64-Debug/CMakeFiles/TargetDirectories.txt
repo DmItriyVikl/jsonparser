@@ -1,0 +1,5 @@
+C:/Users/ADMIN/source/repos/Json_Parser/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/source/repos/Json_Parser/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ADMIN/source/repos/Json_Parser/out/build/x64-Debug/Json_Parser/CMakeFiles/Json_Parser.dir
+C:/Users/ADMIN/source/repos/Json_Parser/out/build/x64-Debug/Json_Parser/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/source/repos/Json_Parser/out/build/x64-Debug/Json_Parser/CMakeFiles/rebuild_cache.dir
